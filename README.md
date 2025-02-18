@@ -22,7 +22,7 @@ A simple Drum Kit project that allows users to play drum sounds by clicking on b
 ## 📦 Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ayushm0807/drum-kit.git
+   git clone https://github.com/ayushm0807/Drum-Kit.git
    ```
 2. Open `index.html` in your browser.
 
